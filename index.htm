@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Notes Organizer</title>
+		<link rel="stylesheet" type="text/css" href="NotesOrganizer.css">
+	</head>
+	<body>
+		<mainHeading>Notes Organizer</mainHeading>
+		<hint>Double-click on a note to add more notes . . .</hint>
+		<!--<table>
+			<tr>
+				<td>
+					<input type="button" value="Add Note" id="add_btn" onclick="addNote()">
+				</td>
+			</tr>
+		</table>-->
+		<table id="notes">
+			<tr>
+				<td>
+					<!--<input type="textarea" id="note1" style="background-color:#ADFF2F; width:200px; height:200px; border:none">-->
+					<textarea rows="10" cols="25" style="background-color:#ADFF2F; border:none; overflow:auto"; ondblclick="addNote()"></textarea>
+				</td>
+			</tr>
+		</table>
+		<script type="text/javascript" src="NotesOrganizer.js"></script>
+	</body>
+</html>
