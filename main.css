@@ -17,4 +17,8 @@ hint {
 textarea {
     font-family: cursive;
     font-size: 15px;
+	width: 200px;
+	height: 200px;
+	border: none;
+	overflow: auto;
 }
