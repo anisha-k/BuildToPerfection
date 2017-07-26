@@ -22,3 +22,10 @@ textarea {
 	border: none;
 	overflow: auto;
 }
+label {
+	color: gray;
+	font-style: italic;
+	font-size: 9px;
+	position: absolute;
+	width: 204px;
+}
