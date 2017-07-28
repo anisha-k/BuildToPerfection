@@ -26,6 +26,9 @@ label {
 	color: gray;
 	font-style: italic;
 	font-size: 9px;
-	position: absolute;
-	width: 204px;
+	/*position: absolute;
+	width: 204px;*/
+	padding-top: 20px;
+	padding-right: 35px;
+	border-right-style
 }
