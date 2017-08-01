@@ -21,6 +21,7 @@ textarea {
 	height: 200px;
 	border: none;
 	overflow: auto;
+	border-bottom-right-radius: 20px;
 }
 label {
 	color: gray;
@@ -29,5 +30,6 @@ label {
 	/*position: absolute;
 	width: 204px;*/
 	padding-top: 23px;
-	border-right: 30px solid;
+	border-right: 35px solid;
+	border-bottom-right-radius: 100px;
 }
