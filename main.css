@@ -25,10 +25,9 @@ textarea {
 label {
 	color: gray;
 	font-style: italic;
-	font-size: 9px;
+	font-size: 10px;
 	/*position: absolute;
 	width: 204px;*/
-	padding-top: 20px;
-	padding-right: 35px;
-	border-right-style
+	padding-top: 23px;
+	border-right: 30px solid;
 }
